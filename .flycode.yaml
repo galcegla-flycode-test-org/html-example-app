@@ -9,4 +9,3 @@ apps:
     text-resources:
       - path: "*.html"
         format: html-hardcoded
-
